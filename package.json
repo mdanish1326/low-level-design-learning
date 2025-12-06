@@ -1,0 +1,24 @@
+{
+  "name": "low-level-design-learning",
+  "version": "1.0.0",
+  "description": "Learn Low Level Design from beginner to expert",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "lld",
+    "low-level-design",
+    "design-patterns",
+    "oop",
+    "typescript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0",
+    "@types/node": "^20.0.0"
+  }
+}
